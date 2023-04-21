@@ -19,6 +19,12 @@ Ideally, scooters get rearranged organically by having certain users moving from
 
 Working as a Data Engineer for Gans my role was to collect data from external sources that can potentially help Gans predict e-scooter movement. Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be to assemble and automate a data pipeline in the cloud.
 
+### 1.2. Technical Skills 
+- Python: Pandas
+- APIs and Web Scraping: Beautifulsoup 
+- AWS: AWS Lambda, AWS RDS, AWS IAM, AWS EventBridge, AWS Cloudwatch
+- SQL: SQLAlchemy Connect Python with MySQL
+
 ## 2. Data Collection 
 
 ### 2.1. Data Collection: Web Scraping
